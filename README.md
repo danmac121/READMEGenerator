@@ -6,4 +6,4 @@ This README Generator runs in the terminal and will prompt the user to answer qu
 
 ### Generated sample
 
-![sample](./image/generatedSample.png)
+![sample](./image/sample.png)
